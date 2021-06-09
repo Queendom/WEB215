@@ -24,7 +24,5 @@ const signout = async () => {
   }
 }
 
-export {
-  signin,
-  signout
+export { signin, signout
 }

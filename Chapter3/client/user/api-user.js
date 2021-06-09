@@ -77,9 +77,5 @@ const remove = async (params, credentials) => {
 }
 
 export {
-  create,
-  list,
-  read,
-  update,
-  remove
+  create, list, read, update, remove
 }
