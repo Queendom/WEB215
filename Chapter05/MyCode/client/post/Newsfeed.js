@@ -5,7 +5,7 @@ import Typography from '@material-ui/core/Typography'
 import Divider from '@material-ui/core/Divider'
 import auth from './../auth/auth-helper'
 import PostList from './PostList'
-import {listNewsFeed} from './api-post.js'
+import {listNewsFeed} from './api.post.js'
 import NewPost from './NewPost'
 
 const useStyles = makeStyles(theme => ({

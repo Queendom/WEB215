@@ -15,7 +15,7 @@ import Divider from '@material-ui/core/Divider'
 import PropTypes from 'prop-types'
 import {makeStyles} from '@material-ui/core/styles'
 import {Link} from 'react-router-dom'
-import {remove, like, unlike} from './api-post.js'
+import {remove, like, unlike} from './api.post.js'
 import Comments from './Comments'
 
 const useStyles = makeStyles(theme => ({

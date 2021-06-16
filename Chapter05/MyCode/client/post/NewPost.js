@@ -12,7 +12,7 @@ import Avatar from '@material-ui/core/Avatar'
 import Icon from '@material-ui/core/Icon'
 import PropTypes from 'prop-types'
 import {makeStyles} from '@material-ui/core/styles'
-import {create} from './api-post.js'
+import {create} from './api.post.js'
 import IconButton from '@material-ui/core/IconButton'
 import PhotoCamera from '@material-ui/icons/PhotoCamera'
 
